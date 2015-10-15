@@ -5,4 +5,6 @@
 
 效果图如下：
 
-![image]()
+![image](https://github.com/longyinzaitian/RectAnimation/blob/master/rectanimation.gif)
+
+欢迎访问我的[博客](http://blog.csdn.net/u010156024/article/details/49157769)进行交流.
